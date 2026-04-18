@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/2402741152378392922" alt="Nanomaterial Banner" width="100%">
-</p>
-
 <h1 align="center">👋 Welcome!</h1>
 
 ## About Me
