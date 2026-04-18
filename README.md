@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1000&q=80" alt="Chemistry Header Banner" width="100%">
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/2402741152378392922" alt="Nanomaterial Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Welcome!</h1>
@@ -31,16 +31,4 @@
 ---
 
 ## 📫 Contact Details
-
-<table>
-  <tr>
-    <td width="80%">
-      <ul>
-        <li><b>Email:</b> <a href="mailto:gali.sued@weizmann.ac.il">gali.sued@weizmann.ac.il</a></li>
-      </ul>
-    </td>
-    <td width="20%" align="center">
-      <img src="https://via.placeholder.com/150" width="100" style="border-radius:50%" alt="Gali's Profile Photo">
-    </td>
-  </tr>
-</table>
+* **Email:** gali.sued@weizmann.ac.il
