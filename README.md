@@ -19,8 +19,5 @@ I'm Gali, a Master's student in the Faculty of Chemistry at the Weizmann Institu
 * Electrochemistry
 * Biomineralization
 
-## Beyond the Lab
-When I'm not running experiments, I enjoy applying the scientific method to experimental baking and perfecting dough hydration. 
-
 ## 📫 Contact Details
 * **Email:** gali.sued@weizmann.ac.il
