@@ -1,3 +1,7 @@
+---
+layout: default
+--- 
+
 <h1 align="center">👋 Welcome!</h1>
 
 ## About Me
@@ -17,13 +21,13 @@
 ---
 
 ## Topics of Interest
-
-![Sustainability](https://img.shields.io/badge/Sustainability_&_Renewable_Energy-4CAF50?style=for-the-badge)
-![Nanomaterials](https://img.shields.io/badge/Nanomaterials_&_Topological_Semimetals-2196F3?style=for-the-badge)
-![Solid State](https://img.shields.io/badge/Solid--State_Synthesis-FF9800?style=for-the-badge)
-![Electrochemistry](https://img.shields.io/badge/Electrochemistry-9C27B0?style=for-the-badge)
-![Biomineralization](https://img.shields.io/badge/Biomineralization-00BCD4?style=for-the-badge)
-
+<div class="badge-container">
+    <div class="topic-box bg-green">Sustainability & Renewable Energy</div>
+    <div class="topic-box bg-blue">Nanomaterials & Topological Semimetals</div>
+    <div class="topic-box bg-orange">Solid-State Synthesis</div>
+    <div class="topic-box bg-purple">Electrochemistry</div>
+    <div class="topic-box bg-cyan">Biomineralization</div>
+</div>
 ---
 
 ## 📫 Contact Details
